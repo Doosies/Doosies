@@ -10,6 +10,6 @@
 - [자바스크립트](https://github.com/Doosies/StudyRecord/tree/master/JavscriptCore)
 
 # About Me
-Name 👉 송민형
-Blog 👉 https://velog.io/@song961003
-Mail 👉 song961003@gmail.com
+Name 👉 송민형  
+Blog 👉 https://velog.io/@song961003  
+Mail 👉 song961003@gmail.com  
