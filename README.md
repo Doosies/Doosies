@@ -1,3 +1,11 @@
+# About Me
+## Info
+Name 👉 송민형
+Blog 👉 https://velog.io/@song961003
+
+## Skill
+Ract, Typescript, redux-toolkit
+
 # 프로젝트
 ## 협업한 프로젝트
 
@@ -9,6 +17,3 @@
 - [타입스크립트](https://github.com/Doosies/StudyRecord/tree/master/TypescriptBasic)
 - [자바스크립트](https://github.com/Doosies/StudyRecord/tree/master/JavscriptCore)
 
-# About Me
-Name 👉 송민형  
-Blog 👉 https://velog.io/@song961003
