@@ -11,5 +11,4 @@
 
 # About Me
 Name 👉 송민형  
-Blog 👉 https://velog.io/@song961003  
-Mail 👉 song961003@gmail.com  
+Blog 👉 https://velog.io/@song961003
