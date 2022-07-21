@@ -8,15 +8,15 @@ Ract, Typescript, redux-toolkit
 
 ---
 
-# 프로젝트
-## 협업한 프로젝트
+# Projects
+## With Team
 
-## 혼자한 프로젝트
+## Alone
 - [투두리스트](https://github.com/Doosies/todoList-page/)
 
 ---
 
-# 공부기록
+# tudies
 - [타입스크립트](https://github.com/Doosies/StudyRecord/tree/master/TypescriptBasic)
 - [자바스크립트](https://github.com/Doosies/StudyRecord/tree/master/JavscriptCore)
 - [Nestjs](https://github.com/Doosies/StudyRecord/tree/master/Nest)
