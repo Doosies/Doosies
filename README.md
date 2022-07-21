@@ -11,7 +11,7 @@ Ract, Typescript, redux-toolkit
 # Projects
 ## With Team
 
-## Alone
+## Without Team
 - [투두리스트](https://github.com/Doosies/todoList-page/)
 
 ---
