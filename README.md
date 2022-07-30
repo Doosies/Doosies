@@ -7,6 +7,13 @@
 
 ---
 
+# Studies
+- [타입스크립트](https://github.com/Doosies/StudyRecord/tree/master/TypescriptBasic)
+- [자바스크립트](https://github.com/Doosies/StudyRecord/tree/master/JavscriptCore)
+- [Nestjs](https://github.com/Doosies/StudyRecord/tree/master/Nest)
+
+---
+
 # About Me
 ## Info
 Name 👉 송민형  
@@ -14,10 +21,3 @@ Blog 👉 https://velog.io/@song961003
 
 ## Skill
 Ract, Typescript, redux-toolkit
-
----
-
-# Studies
-- [타입스크립트](https://github.com/Doosies/StudyRecord/tree/master/TypescriptBasic)
-- [자바스크립트](https://github.com/Doosies/StudyRecord/tree/master/JavscriptCore)
-- [Nestjs](https://github.com/Doosies/StudyRecord/tree/master/Nest)
