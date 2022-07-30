@@ -10,6 +10,7 @@ Ract, Typescript, redux-toolkit
 
 # Projects
 ## With Team
+- [banner app](https://github.com/preCrew/banner_create_app)
 
 ## Without Team
 - [투두리스트](https://github.com/Doosies/todoList-page/)
