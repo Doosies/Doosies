@@ -4,7 +4,7 @@
 
 ## Without Team
 - [투두리스트](https://github.com/Doosies/todoList-page/)
-
+- [개인 사이트](https://github.com/Doosies/portfolio/)
 ---
 
 # Study Record
