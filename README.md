@@ -8,7 +8,7 @@
 - [개인 사이트](https://github.com/Doosies/portfolio/)
 
 ### 👀 How to know mee
-[![](https://img.shields.io/badge/TechBlog-20C997?&style=flat-square&logo=Velog&logoColor=white)](mailto:song961003@gmail.com)
+[![](https://img.shields.io/badge/TechBlog-20C997?&style=flat-square&logo=Velog&logoColor=white)](https:velog.io/@song961003)
 [![](https://img.shields.io/badge/SendMail-EA4335?&style=flat-square&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
 
 ### 💪 Stacks 💪
