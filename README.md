@@ -8,7 +8,7 @@
 - [개인 사이트](https://github.com/Doosies/portfolio/)
 
 ### 👀 How to Contact me
-[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https:velog.io/@song961003)
+[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
 [![](https://img.shields.io/badge/SendMail-EA4335?&style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
 
 ### 💪 Stacks 💪
