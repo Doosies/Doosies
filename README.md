@@ -1,19 +1,20 @@
 ### Solo Projects
 - [포트폴리오 v1](https://github.com/Doosies/portfolio/)
+  - 📆 일정 2022.05.19 ~ 2022.06.08
+  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Java, Spring Boot, nginx, aws lightsail  
+
 - [투두 리스트](https://github.com/Doosies/todoList-page/)
+  - 📆 일정 / 2022.06.30
+  - ⚙️ 스택 / Typescript, React
 
 ### TeamProjects
 - [가계부](https://github.com/preCrew/account_book)
-  - 📆개발일정  
-  2022.07.30 ~ 2022.09.07  
-  - ⚙️기술스택  
-  Typescript, React, Styled-Components, Redux-Toolkit, Firebase 
+  - 📆 일정 / 2022.07.30 ~ 2022.09.07  
+  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Firebase 
   
 - [배너앱](https://github.com/preCrew/banner_create_app)
-  - 📆개발일정  
-  2022.06.26 ~ 2022.07.06
-  - ⚙️기술스택  
-  Typescript, React, Styled-Components, Redux-Toolkit 
+  - 📆 일정 / 2022.06.26 ~ 2022.07.06
+  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit 
 
 
 ### 👀 How to Contact me
