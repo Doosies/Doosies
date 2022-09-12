@@ -1,8 +1,5 @@
 ### Solo Projects
-<a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>  
 - [포트폴리오 v1](https://github.com/Doosies/portfolio/)
-  블로그 새창에서 열기
-</a>
   - 📆 일정 2022.05.19 ~ 2022.06.08
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Java, Spring Boot, nginx, aws lightsail  
 
