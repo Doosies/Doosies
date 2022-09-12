@@ -1,11 +1,20 @@
+### Solo Projects
+- [포트폴리오 v1](https://github.com/Doosies/portfolio/)
+- [투두 리스트](https://github.com/Doosies/todoList-page/)
 
 ### TeamProjects
 - [가계부](https://github.com/preCrew/account_book)
+  - 📆개발일정  
+  2022.07.30 ~ 2022.09.07  
+  - ⚙️기술스택  
+  Typescript, React, Styled-Components, Redux-Toolkit, Firebase 
+  
 - [배너앱](https://github.com/preCrew/banner_create_app)
+  - 📆개발일정  
+  2022.06.26 ~ 2022.07.06
+  - ⚙️기술스택  
+  Typescript, React, Styled-Components, Redux-Toolkit 
 
-### Solo Projects
-- [투두 리스트](https://github.com/Doosies/todoList-page/)
-- [개인 사이트](https://github.com/Doosies/portfolio/)
 
 ### 👀 How to Contact me
 [![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
