@@ -16,11 +16,6 @@
   - 📆 일정 / 2022.06.26 ~ 2022.07.06
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit 
 
-
-### 👀 How To Contact Me
-[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
-[![](https://img.shields.io/badge/SendMail-EA4335?&style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
-
 ### 💪 Stack Levels 💪
 |Skill|| 1 | 2 | 3 | 4 | 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -32,4 +27,6 @@
 ![](https://img.shields.io/badge/Css3-1572B6?&style=style=for-the-badge&logo=Css3&logoColor=white)            ||  |  | 🟩 |  |  |
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=style=for-the-badge&logo=MySQL&logoColor=white)          ||  | 🟨 |  |  |  |
 
-
+### 👀 How To Contact Me
+[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
+[![](https://img.shields.io/badge/SendMail-EA4335?&style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
