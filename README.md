@@ -17,7 +17,7 @@
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit 
 
 ### 💪 Stack Levels 💪
-|Skill \ Level|| 1 | 2 | 3 | 4 | 5|
+|Stack \ Level|| 1 | 2 | 3 | 4 | 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ![](https://img.shields.io/badge/Javascript-F7DF1E?&style=style=for-the-badge&logo=Javascript&logoColor=white)||  |  |  |  | 🟪 |
 ![](https://img.shields.io/badge/Typescript-3178C6?&style=style=for-the-badge&logo=Typescript&logoColor=white)||  |  |  | 🟦 |  |
