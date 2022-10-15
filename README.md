@@ -3,7 +3,7 @@
   - 📆 일정 2022.05.19 ~ 2022.06.08
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Java, Spring Boot, nginx, aws lightsail  
   
-- [주소를 입력하면 핀을 찍어주는 사이트](https://github.com/Doosies/router-study/)
+- [주소를 입력하면 핀을 찍어주는 사이트](https://github.com/Doosies/TransMapPage)
   - 📆 일정 / 2022.02.08 ~ 2022.02.10
   - ⚙️ 스택 / typescript, react
   
