@@ -7,7 +7,7 @@
   - 📆 일정 / 2022.02.08 ~ 2022.02.10
   - ⚙️ 스택 / typescript, react
   
-- [투두 리스트(javascript 버전)](https://github.com/Doosies/router-study/)
+- [투두 리스트](https://github.com/Doosies/router-study/)
   - 📆 일정 / 1주일 소요
   - ⚙️ 스택 / javascript, react, redux
   
@@ -23,10 +23,7 @@
 - [배너앱](https://github.com/preCrew/banner_create_app)
   - 📆 일정 / 2022.06.26 ~ 2022.07.06
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit 
-  
-- [투두 리스트(typescript 버전)](https://github.com/Doosies/todoList-page/)
-  - 📆 일정 / 2022.06.30
-  - ⚙️ 스택 / Typescript, React
+
 
 ### 💪 Stack Levels 💪
 |Stack \ Level|| 1 | 2 | 3 | 4 | 5|
