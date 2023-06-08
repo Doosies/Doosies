@@ -1,3 +1,6 @@
+### 👀 How To Contact Me
+[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
+[![](https://img.shields.io/badge/SendMail-EA4335?&style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
 ### Solo Projects
 - [포트폴리오 v1](https://github.com/Doosies/portfolio/)
   - 📆 일정 2022.05.19 ~ 2022.06.08
@@ -39,7 +42,3 @@
 ![](https://img.shields.io/badge/React-61DAFB?&style=style=for-the-badge&logo=React&logoColor=white)          ||  | 🟩 |  |  |  |
 ![](https://img.shields.io/badge/Redux-764ABC?&style=style=for-the-badge&logo=Redux&logoColor=white)          ||  | 🟩 |  |  |  |
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=style=for-the-badge&logo=MySQL&logoColor=white)          || 🟨 |  |  |  |  |
-
-### 👀 How To Contact Me
-[![](https://img.shields.io/badge/TechBlog-20C997?&style=style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@song961003)
-[![](https://img.shields.io/badge/SendMail-EA4335?&style=style=for-the-badge&logo=Gmail&logoColor=white)](mailto:song961003@gmail.com)
