@@ -16,7 +16,11 @@
   - ⚙️ 스택 / html5, css3, javascript, php
 
 ### Team Projects
-- [가계부](https://github.com/preCrew/account_book)
+- [여행일정 관리 앱](https://github.com/preCrew/preTravel)
+  - 📆 일정 / 2023.01.02 ~ 진행중
+  - ⚙️ 스택 / Typescript, React, twin.macro, recoil, react-query, Java, Spring Boot
+  
+- [가계부 앱](https://github.com/preCrew/account_book)
   - 📆 일정 / 2022.07.30 ~ 2022.09.07  
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Firebase 
   
