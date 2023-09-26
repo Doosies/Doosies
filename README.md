@@ -4,15 +4,7 @@
 ### Solo Projects
 - [포트폴리오 v1](https://github.com/Doosies/portfolio/)
   - 📆 일정 2022.05.19 ~ 2022.06.08
-  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Java, Spring Boot, nginx, aws lightsail  
-  
-- [주소를 입력하면 핀을 찍어주는 사이트](https://github.com/Doosies/TransMapPage)
-  - 📆 일정 / 2022.02.08 ~ 2022.02.10
-  - ⚙️ 스택 / typescript, react
-  
-- [투두 리스트](https://github.com/Doosies/router-study/)
-  - 📆 일정 / 1주일 소요
-  - ⚙️ 스택 / javascript, react, redux
+  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Java, Spring Boot, nginx, aws lightsail 
   
 - [핸드폰 판매 페이지](https://github.com/Doosies/ppap/)
   - 📆 일정 / 2020.12.15 ~ 2021.01.23
@@ -26,10 +18,6 @@
 - [가계부 앱](https://github.com/preCrew/account_book)
   - 📆 일정 / 2022.07.30 ~ 2022.09.07  
   - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit, Firebase 
-  
-- [배너앱](https://github.com/preCrew/banner_create_app)
-  - 📆 일정 / 2022.06.26 ~ 2022.07.06
-  - ⚙️ 스택 / Typescript, React, Styled-Components, Redux-Toolkit 
 
 
 ### 💪 Stack Levels 💪
